@@ -1,86 +1,409 @@
-## Hi there 👋
+# 👋 Hello, I'm Diya.
 
-# Diya Chuphal
+### Data Science Student • Builder • Problem Solver
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=220&section=header&text=Diya%20Chuphal&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Data%20Science%20Student" />
-</p>
+I'm an **Integrated B.Tech Data Science student** passionate about transforming raw data into meaningful insights and building applications that solve practical problems.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Student;Building+AI-Powered+Applications;Python+%7C+Machine+Learning+%7C+Data+Analytics;Always+Learning+Something+New" />
-</p>
+I work across **Data Analytics, Machine Learning, AI, Python and Data Visualization**, while continuously expanding my technical toolkit through projects and hands-on experimentation.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=DiyaChuphal&color=7dd3fc&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/DiyaChuphal?style=for-the-badge&color=7dd3fc"/>
-</p>
+---
 
-## 👩‍💻 Who I Am
+# 🧬 A Little About Me
 
-```ts
-const diya = {
-  title: "Data Science Student",
-  stack: ["C","C++","Python","HTML","Streamlit","MySQL","Pandas","NumPy","Scikit-learn","TensorFlow","Power BI","Tableau","Advanced Excel"],
-  launchedProjects: ["Career-Intelligence-Platform"],
-  certifications: [],
-  status: "Learning and building AI/Data Science projects",
-  openTo: "Collaboration"
-};
+```python
+diya = {
+    "education": "Integrated B.Tech in Data Science",
+    "graduation": 2028,
+
+    "focus": [
+        "Data Science",
+        "Machine Learning",
+        "Data Analytics",
+        "Artificial Intelligence"
+    ],
+
+    "languages": [
+        "Python",
+        "SQL",
+        "C",
+        "C++",
+        "HTML"
+    ],
+
+    "data_stack": [
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "TensorFlow"
+    ],
+
+    "analytics": [
+        "Power BI",
+        "Tableau",
+        "Advanced Excel"
+    ],
+
+    "development": [
+        "Streamlit",
+        "Git",
+        "GitHub",
+        "Jupyter"
+    ],
+
+    "currently": "Building + Learning + Experimenting",
+
+    "open_to": [
+        "Internships",
+        "Collaborations",
+        "Data/ML Projects"
+    ]
+}
 ```
 
-## 🚀 Featured Project
+---
 
-### Career-Intelligence-Platform
+# ⚡ What I Do
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DiyaChuphal&repo=Career-Intelligence-Platform&theme=nord)](https://github.com/DiyaChuphal/Career-Intelligence-Platform)
+<table>
+<tr>
+<td width="50%">
 
-| Layer | Technology |
-|---|---|
-| Frontend/App | Streamlit |
-| Language | Python 3.10 |
-| PDF Processing | pdfplumber |
-| OCR | pytesseract + Tesseract OCR |
-| Reports | ReportLab |
+### 📊 Data Analytics
 
-- **Live:** Not available
-- **Code:** https://github.com/DiyaChuphal/Career-Intelligence-Platform
+I enjoy exploring datasets, cleaning messy data and finding patterns that can actually tell a story.
 
-## 🛠 Tech Stack
+**Working with:**
 
-### Languages
-<p><img src="https://skillicons.dev/icons?i=c,cpp,python" /></p>
+* Python
+* Pandas
+* NumPy
+* Excel
+* Power BI
+* Tableau
+* SQL
 
-### Frontend
-<p><img src="https://skillicons.dev/icons?i=html" /> Streamlit</p>
+</td>
 
-### Database
-<p><img src="https://skillicons.dev/icons?i=mysql" /></p>
+<td width="50%">
 
-### AI / ML
-Pandas • NumPy • Scikit-learn • TensorFlow
+### 🤖 Machine Learning
 
-### Dev Tools
-<p><img src="https://skillicons.dev/icons?i=git,github" /></p>
+I'm exploring how machine learning models can turn data into predictions and intelligent decisions.
 
-Power BI • Tableau • Advanced Excel • Jupyter Notebook
+**Exploring:**
 
-## 📊 GitHub Stats
+* Regression
+* Classification
+* Clustering
+* Decision Trees
+* Random Forest
+* SVM
+* Model Evaluation
+* Feature Engineering
 
-![](https://github-readme-stats.vercel.app/api?username=DiyaChuphal&show_icons=true&theme=nord)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaChuphal&layout=compact&theme=nord)
+</td>
+</tr>
 
-![](https://streak-stats.demolab.com?user=DiyaChuphal&theme=nord)
+<tr>
+<td>
 
-![](https://github-profile-trophy.vercel.app/?username=DiyaChuphal&theme=nord&no-frame=true&no-bg=true)
+### 🧠 AI Applications
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=DiyaChuphal&theme=nord)
+I enjoy taking ML concepts beyond notebooks and turning them into usable applications.
 
-## 🤝 Connect
+**Tools:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diya-chuphal-3a9b4a3b5)
+* Python
+* Streamlit
+* Scikit-learn
+* TensorFlow
+* APIs
+* NLP
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:diyachuphal19@gmail.com)
+</td>
+
+<td>
+
+### 🛠️ Development
+
+Building projects is one of my main ways of learning.
+
+**Workflow:**
+
+`Code → Test → Debug → Improve → Deploy`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Project
+
+## 🧠 Career Intelligence Platform
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer"/>
+
+<a href="https://github.com/DiyaChuphal/Career-Intelligence-Platform">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DiyaChuphal&repo=Career-Intelligence-Platform&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</a>
+
+</p>
+
+### 🎯 The Idea
+
+Students often have skills, projects and academic qualifications but don't know **how job-ready their profile actually is**.
+
+So I built a platform around the idea of:
+
+> **Resume → Skills → Analysis → Career Direction**
+
+### ✨ Core Features
+
+```text
+📄 Resume Analysis
+      ↓
+🎯 ATS-style Evaluation
+      ↓
+🧩 Skill Gap Analysis
+      ↓
+💼 Career / Internship Matching
+      ↓
+📚 Learning Recommendations
+      ↓
+🗺️ Career Roadmap
+      ↓
+🎤 Interview Preparation
+```
+
+### 🔧 Technology
+
+| Layer            | Technology              |
+| ---------------- | ----------------------- |
+| Language         | Python                  |
+| Interface        | Streamlit               |
+| Data Processing  | Pandas                  |
+| Machine Learning | Scikit-learn            |
+| PDF Extraction   | pdfplumber              |
+| OCR              | pytesseract + Tesseract |
+| Reports          | ReportLab               |
+| Visualization    | Plotly                  |
+| Development      | Git + GitHub            |
+
+**Repository:**
+https://github.com/DiyaChuphal/Career-Intelligence-Platform
+
+---
+
+# 🧪 Other Projects
+
+### 🛡️ Suraksha — Smart Safety Solution
+
+A wearable safety concept designed around emergency assistance and location tracking.
+
+**Key concepts**
+
+`SOS` • `GPS` • `GSM` • `Live Location` • `Emergency Contacts` • `Audio Recording`
+
+**Technology**
+
+`Arduino` • `A9G` • `GPS` • `GSM` • `Li-ion Battery`
+
+---
+
+### ⚡ Electricity Theft Detection & Analytics
+
+A data analytics and machine learning project using real smart-meter data to investigate unusual electricity consumption patterns.
+
+**Technology**
+
+`Python` • `Pandas` • `Isolation Forest` • `Streamlit` • `Excel`
+
+---
+
+### 🎓 Smart Student Skill & Course Tracker
+
+A Python-based student utility application for managing learning progress, skills and courses.
+
+**Technology**
+
+`Python` • `Data Structures` • `File Handling`
+
+---
+
+# 🧰 My Arsenal
+
+<p align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,html"/>
+
+### Data & AI
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+### Analytics
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+
+</p>
+
+---
+
+# 📚 Academic Journey
+
+### 🎓 Integrated B.Tech — Data Science
+
+**MGM University • School of Engineering & Technology**
+
+**2022 → 2028**
+
+### Core Areas
+
+```text
+Programming
+     │
+     ├── Python
+     ├── C / C++
+     └── SQL
+
+Data
+     │
+     ├── Statistics
+     ├── Data Analysis
+     ├── Data Visualization
+     └── Databases
+
+AI / ML
+     │
+     ├── Machine Learning
+     ├── Deep Learning
+     ├── Artificial Intelligence
+     └── Model Evaluation
+
+Engineering
+     │
+     ├── DSA
+     ├── DBMS
+     ├── Operating Systems
+     └── Big Data
+```
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Deepening%20Skills-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Advanced%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Model%20Building-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-Insights-00A4EF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DiyaChuphal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaChuphal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=DiyaChuphal&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</p>
+
+---
+
+# 💭 My Learning Philosophy
+
+<p align="center">
+
+> **Learn it. Build it. Break it. Fix it. Understand it.**
+
+</p>
+
+I don't want to only learn tools.
+
+I want to understand **why they work, where they are useful, and how they can solve real problems.**
+
+---
+
+# 🤝 Let's Build Something
+
+I'm interested in connecting with people working on:
+
+**Data Science • Machine Learning • AI • Data Analytics • Open Source • Student Projects**
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/diya-chuphal-3a9b4a3b5">
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:diyachuphal19@gmail.com">
+<img src="https://img.shields.io/badge/Drop%20Me%20a%20Mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ✨ Thanks for stopping by!
+
+**Data → Insights → Intelligence → Impact**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:164e63,100:020617&height=140&section=footer"/>
+
 </p>
