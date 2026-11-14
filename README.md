@@ -1,97 +1,180 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,50:e5d4ff,100:c8e5ff&height=190&section=header&text=Diya%20Chuphal&fontSize=48&fontColor=694b75&fontAlignY=40&desc=data%20girl%20%7C%20tech%20mind%20%7C%20big%20dreams%20%E2%9C%A8&descSize=15&descColor=694b75&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=180&section=header&text=DIYA%20CHUPHAL&fontSize=48&fontColor=d6bd87&fontAlignY=42&desc=DATA%20SCIENCE%20%7C%20ANALYTICS%20%7C%20INNOVATION&descSize=14&descColor=ffffff&descAlignY=68" width="100%" />
 
-### ୨୧ turning data into stories & ideas into reality
+<br/>
 
-**Data Science Student | Data Analyst Intern | Researcher**
+### Transforming Data Into Decisions. Turning Ideas Into Impact.
 
-[LinkedIn](https://www.linkedin.com/in/diya-chuphal-3a9b4a3b5) · [GitHub](https://github.com/DiyaChuphal) · [Email](mailto:diyachuphal19@gmail.com)
+**Integrated B.Tech in Data Science | Data Analyst | AI & ML Enthusiast**
 
-<img src="https://komarev.com/ghpvc/?username=DiyaChuphal&label=profile+visitors&color=d8a7c9&style=flat-square"/>
+<br/>
+
+<a href="https://www.linkedin.com/in/diya-chuphal-3a9b4a3b5"><img src="https://img.shields.io/badge/LINKEDIN-Connect-d6bd87?style=flat-square&logo=linkedin&logoColor=111111" /></a>
+<a href="https://github.com/DiyaChuphal"><img src="https://img.shields.io/badge/GITHUB-Portfolio-d6bd87?style=flat-square&logo=github&logoColor=111111" /></a>
+<a href="mailto:diyachuphal19@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-d6bd87?style=flat-square&logo=gmail&logoColor=111111" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DiyaChuphal&label=PROFILE+VIEWS&color=d6bd87&style=flat-square" />
 
 </div>
 
 ---
 
-### 🎀 a little about me
+## 01 / PROFESSIONAL INTRODUCTION
 
-Hey, I'm **Diya**, a 5th-year Integrated B.Tech Data Science student at MGM University.
+Hello! I'm **Diya Chuphal**, a final-year (5th-year) Integrated B.Tech student specializing in **Data Science at MGM University**.
 
-- 📊 Currently working as a **Data Analyst Intern at Indux Technology**
-- 🎓 Pursuing Data Analyst training at Disha Institute
-- 🏆 **AIU Anveshan 2026 – National 2nd Runner-Up & International Finalist**
-- 🏛️ **General Secretary, SOET**
-- 📄 Research paper in Smart Irrigation & Sustainable Agriculture
-- 💗 Interested in Data Analytics, AI, ML & Business Intelligence
+I am passionate about the intersection of data, technology and intelligent problem-solving. My interests span Data Analytics, Artificial Intelligence, Machine Learning and Business Intelligence.
 
-### 💻 my tech stack
+Alongside my university education, I am pursuing a **Data Analyst course under Savitribai Phule Pune University (SPPU) at Disha Institute**, strengthening my practical analytical and industry-oriented skills.
 
-**Languages & Data:** `Python` `SQL` `C` `C++` `Pandas` `NumPy`
+Currently, I work as a **Data Analyst Intern at Indux Technology**, where I continue to develop my understanding of real-world data and analytical workflows.
 
-**Analytics:** `Power BI` `Tableau` `Advanced Excel` `Statistics`
+I believe in using technology not just to build solutions, but to create meaningful impact.
 
-**Machine Learning:** `Scikit-learn` `TensorFlow` `EDA` `Data Preprocessing`
+## 02 / EDUCATION & PROFESSIONAL EXPERIENCE
 
-**Tools:** `MySQL` `PostgreSQL` `Streamlit` `Git` `GitHub` `Jupyter`
+| Category | Details |
+|---|---|
+| Degree | Integrated B.Tech – Data Science |
+| Academic Year | 5th Year |
+| University | MGM University |
+| Additional Qualification | Data Analyst Course |
+| Course Affiliation | Savitribai Phule Pune University (SPPU) |
+| Training Institute | Disha Institute |
+| Current Role | Data Analyst Intern |
+| Organization | Indux Technology |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,cpp,git,github,vscode,jupyter,tensorflow&perline=8"/>
+## 03 / TECHNICAL EXPERTISE
+
+**Programming Languages & Data Science**
+
+<p>
+<img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/SQL-181818?style=for-the-badge&logo=mysql&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/C-181818?style=for-the-badge&logo=c&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/C++-181818?style=for-the-badge&logo=cplusplus&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/Pandas-181818?style=for-the-badge&logo=pandas&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/NumPy-181818?style=for-the-badge&logo=numpy&logoColor=d6bd87"/>
 </p>
 
-### 🪄 things i've built
+**Data Analytics & Visualization**
 
-| Project | The idea |
-|---|---|
-| 🧠 [Career Intelligence Platform](https://github.com/DiyaChuphal/Career-Intelligence-Platform) | AI-powered career insights & resume analysis |
-| 🛡️ SURAKSHA | Smart wearable emergency safety solution |
-| ⚡ Electricity Theft Detection | ML-based suspicious pattern detection |
-| 🎓 ScholarSync | Student scholarship matching platform |
-| 🧩 TrustHire AI | AI-based recruitment and fraud analysis |
+<p>
+<img src="https://img.shields.io/badge/Power_BI-181818?style=for-the-badge&logo=powerbi&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/Tableau-181818?style=for-the-badge&logo=tableau&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/Advanced_Excel-181818?style=for-the-badge&logo=microsoftexcel&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/Statistics-181818?style=for-the-badge&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/EDA-181818?style=for-the-badge&logoColor=d6bd87"/>
+</p>
 
-### 🏆 achievements & leadership
+**Artificial Intelligence & Machine Learning**
 
-- 🥈 **AIU Anveshan 2026:** National 2nd Runner-Up
-- 🌍 **International Finalist:** Anveshan
-- 🏛️ General Secretary – School of Engineering & Technology
-- 🎤 Cultural Secretary – College activities
-- 📄 Research Paper – IoT-Based Smart Irrigation Solution for Sustainable Water Management in Agriculture
-- ✨ Technical presentations, innovation competitions & event leadership
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-181818?style=for-the-badge&logo=scikitlearn&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/TensorFlow-181818?style=for-the-badge&logo=tensorflow&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/Data_Preprocessing-181818?style=for-the-badge&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/Machine_Learning-181818?style=for-the-badge&logoColor=d6bd87"/>
+</p>
 
-### 📚 research corner
+**Tools & Platforms**
 
-**IoT-Based Smart Irrigation Solution for Sustainable Water Management in Agriculture**
+<p>
+<img src="https://img.shields.io/badge/MySQL-181818?style=for-the-badge&logo=mysql&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/PostgreSQL-181818?style=for-the-badge&logo=postgresql&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/Streamlit-181818?style=for-the-badge&logo=streamlit&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=d6bd87"/>
+<img src="https://img.shields.io/badge/Jupyter-181818?style=for-the-badge&logo=jupyter&logoColor=d6bd87"/>
+</p>
 
-Research interest: IoT • Smart Agriculture • Sustainable Technology
+## 04 / SELECTED PROJECTS
 
-### 📊 my GitHub stats
+Projects where I combine analytical thinking, emerging technologies and practical problem-solving.
+
+| Project | Overview |
+|:---|:---|
+| [Career Intelligence Platform](https://github.com/DiyaChuphal/Career-Intelligence-Platform) | AI-powered platform for career insights and resume analysis. |
+| **SURAKSHA** | Smart wearable emergency safety solution focused on personal security. |
+| **Electricity Theft Detection** | Machine learning-based approach to identifying suspicious electricity consumption patterns. |
+| **ScholarSync** | Student-focused scholarship matching platform. |
+| **TrustHire AI** | AI-based recruitment and fraud analysis solution. |
+
+## 05 / ACHIEVEMENTS & RECOGNITION
+
+- **AIU Anveshan 2026 – National 2nd Runner-Up.**
+- **International Finalist – AIU Anveshan 2026.**
+- Recognized for innovation, research and technology-driven problem-solving.
+- Participated in technical presentations and innovation competitions.
+
+## 06 / LEADERSHIP & RESPONSIBILITIES
+
+Leadership is an important part of my academic and professional journey.
+
+| Position | Organization |
+|:---|:---|
+| **General Secretary** | School of Engineering & Technology (SOET) |
+| **Cultural Secretary** | College activities and cultural initiatives |
+
+Experience in coordinating activities, managing responsibilities, collaborating with teams and contributing to institutional initiatives.
+
+## 07 / RESEARCH & ACADEMIC INTERESTS
+
+**Research Paper**
+
+*IoT-Based Smart Irrigation Solution for Sustainable Water Management in Agriculture*
+
+Research focuses on leveraging Internet of Things technology to improve irrigation practices, optimize water utilization and encourage sustainable agricultural development.
+
+**Areas of Interest**
+
+- Data Analytics & Business Intelligence
+- Artificial Intelligence & Machine Learning
+- Internet of Things (IoT)
+- Smart Agriculture
+- Sustainable Technology
+- Data-Driven Decision Making
+
+## 08 / GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=DiyaChuphal&show_icons=true&theme=default&hide_border=true&bg_color=fff5fa&title_color=b76e9d&icon_color=c084fc&text_color=66536b"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DiyaChuphal&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=d6bd87&icon_color=d6bd87&text_color=ffffff&ring_color=d6bd87"/>
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaChuphal&layout=compact&theme=default&hide_border=true&bg_color=fff5fa&title_color=b76e9d&text_color=66536b"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaChuphal&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=d6bd87&text_color=ffffff"/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=DiyaChuphal&theme=default&hide_border=true&background=fff5fa&ring=c084fc&fire=d8a7c9&currStreakLabel=b76e9d"/>
+<br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=DiyaChuphal&hide_border=true&background=0d0d0d&ring=d6bd87&fire=d6bd87&currStreakLabel=d6bd87&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=999999"/>
 
 </div>
 
-### 🌷 beyond the screen
+## 09 / BEYOND TECHNOLOGY
 
-Dancing • Travelling • Event Management • Leadership • Creative Ideas
+Beyond academics and technology, I enjoy:
 
-### 💌 let's connect
+- Dancing and creative expression.
+- Travelling and exploring new places.
+- Event management and coordination.
+- Leadership and team collaboration.
+- Exploring innovative ideas and experiences.
+
+## 10 / LET'S CONNECT
+
+I'm always interested in connecting with professionals, researchers, developers and fellow enthusiasts who share an interest in Data Science, Analytics, AI and emerging technologies.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-d8a7c9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-chuphal-3a9b4a3b5)
+<a href="https://www.linkedin.com/in/diya-chuphal-3a9b4a3b5"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=d6bd87"/></a>
+<a href="https://github.com/DiyaChuphal"><img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=d6bd87"/></a>
+<a href="mailto:diyachuphal19@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=d6bd87"/></a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-c4a1d8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiyaChuphal)
+<br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-Say_Hello-f2b8cf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyachuphal19@gmail.com)
+**BUILDING WITH DATA. THINKING BEYOND LIMITS. CREATING IMPACT.**
 
-**made with curiosity, coffee & a little bit of code ♡**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,50:e5d4ff,100:c8e5ff&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer" width="100%"/>
 
 </div>
